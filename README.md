@@ -1,2 +1,2 @@
 # Infamus
-Fisrt compolsory proyect of archichecture and organization of computers
+Fisrt compolsory project of archichecture and organization of computers
